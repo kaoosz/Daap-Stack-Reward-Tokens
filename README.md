@@ -8,7 +8,7 @@
 
 ## Languages
 
-**Solidity, React Js, JavaScript,HTML,CSS,Bootstrap.**
+**Solidity, Node Js, React Js, JavaScript,HTML,CSS,Bootstrap.**
 
 
 ## About
@@ -18,7 +18,7 @@ This project simulate system of stack to earn, you stack your nfts in the contra
 
 ## Technology
 
-**Truffle, Metamask, IPFS, Mocha.**  
+**Truffle, Metamask, IPFS, Ethers, Mocha.**  
 
 `
 He uses three kinds of contracts, each one does its job
